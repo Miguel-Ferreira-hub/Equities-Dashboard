@@ -1,3 +1,3 @@
 # Equities-Dashboard
 
-I created this project to aide me with Equities research, the dashboard is essentially a watchlist tracking 20 tickers for 8 different sectors: Defence, Banking, Technology, Semiconductors and AI, Healthcare, Consumer Staples, Pharmaceuticals, and Energy, Oil & Gas sectors. In addition to historical data, the dashboard provides summary statistics like max drawdown or annualised Sharpe ratio and volatility.
+I created this project to aid me with Equities research, the dashboard is essentially a watchlist tracking 20 tickers for 8 different sectors: Defence, Banking, Technology, Semiconductors and AI, Healthcare, Consumer Staples, Pharmaceuticals, and Energy, Oil & Gas sectors. In addition to historical data, the dashboard provides summary statistics like max drawdown or annualised Sharpe ratio and volatility.
