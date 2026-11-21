@@ -5,5 +5,5 @@ I created this project to aid me with Equities research, the dashboard is essent
 <h1 align="center">Technology Sector Example</h1>
 
 <p align="center">
-  <img src="Images/technology_dashboard.png" alt="Logo" width="900">
+  <img src="images/technology_dashboard.png" alt="Logo" width="900">
 </p>
